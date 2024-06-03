@@ -1,0 +1,13 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.paragraph {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
